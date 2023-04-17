@@ -1,2 +1,2 @@
-# my-repo
+# all
 connection vs code to github
